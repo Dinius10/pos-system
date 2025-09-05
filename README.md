@@ -271,30 +271,6 @@ El sistema incluye:
 - Revisar la consola del navegador
 - Verificar rutas de API
 
-## 📞 Soporte
-
-Para soporte técnico o consultas:
-
-- **Documentación**: Ver este README
-- **Issues**: Crear un issue en el repositorio
-- **Email**: [tu-email@ejemplo.com]
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👏 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crear una branch para tu feature
-3. Commit tus cambios
-4. Push a la branch
-5. Crear un Pull Request
-
-## 🔄 Changelog
-
 ### v1.0.0 (2024-01-15)
 - ✅ Release inicial
 - ✅ Todas las funcionalidades implementadas
@@ -302,5 +278,3 @@ Las contribuciones son bienvenidas. Por favor:
 - ✅ Sistema de pruebas
 
 ---
-
-**Sistema POS** - Desarrollado con ❤️ para pequeñas y medianas empresas.
